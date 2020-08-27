@@ -1,2 +1,6 @@
 vegetables
 fish
+salt
+pepper
+tumeric
+coconut milk
